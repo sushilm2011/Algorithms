@@ -1,0 +1,4 @@
+1. Opposite_Sign()
+	return (a ^ b < 0);
+ 
+
